@@ -1,0 +1,21 @@
+Thank you for trying VidPlay theme. The theme is elegant, clean and material design
+and so much easy to setup.
+
+
+Updating Theme:
+----> MOST IMPORTANT: Take Backup of your site/theme first.
+
+Then
+----> Open the "Changelog" text file.
+----> Copy and Replace changed files to your website.
+----> Clear your site Cache.
+
+
+
+
+If you want any kind of help, feel free to contact us.
+
+
+Website: https://k97.in/contact/?ref=file
+
+Thanks, Have a nice day!

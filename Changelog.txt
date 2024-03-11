@@ -1,0 +1,190 @@
+v3.0.1
+- Added Compatibility with PlayTube v3.0.1
+- Fixed 2 Video Issues
+
+Changed Files:
+	"./vidplay/layout/hashtag/shorts.html"
+	"./vidplay/layout/hashtag/videos.html"
+	"./vidplay/layout/modals/payment_modal.html"
+	"./vidplay/layout/movies/content.html"
+	"./vidplay/layout/my_articles/content.html"
+	"./vidplay/layout/search/content.html"
+	"./vidplay/layout/videos/content.html"
+	"./vidplay/layout/wallet/content.html"
+	"./vidplay/layout/watch/content.html"
+
+-------------------------------------
+
+
+v3.0
+- Added Compatibility with PlayTube v3.0
+- Fixed 2+ Issues
+
+-------------------------------------
+
+
+v2.2.8
+- Added Compatibility with PlayTube v2.2.8
+
+-------------------------------------
+
+
+v2.2.7
+- Added Compatibility with PlayTube v2.2.7
+- Fixed 2+ Issues
+
+-------------------------------------
+
+
+v2.2.6
+- Added Compatibility with PlayTube v2.2.6
+
+-------------------------------------
+
+
+v2.2.4
+- Added Compatibility with PlayTube v2.2.4
+
+-------------------------------------
+
+
+v2.2.2
+- Added Compatibility with PlayTube v2.2.2 and v2.2.3
+- Update Sessions, Points, Monetization page design
+
+-------------------------------------
+
+
+v2.2
+- Added Compatibility with PlayTube v2.2 and v2.2.1
+
+-------------------------------------
+
+
+v2.1.2
+- Added Compatibility with PlayTube v2.1.2
+
+-------------------------------------
+
+
+v2.1.1
+- Added Compatibility with PlayTube v2.1.1
+- Fixed Bugs
+
+-------------------------------------
+
+
+v2.1
+- Added Compatibility with PlayTube v2.1
+- Fixed Bugs
+
+-------------------------------------
+
+
+v2.0.3.2
+- Fixed Bugs
+
+-------------------------------------
+
+
+v2.0.3.1
+- Fixed video thumbnail issues
+
+-------------------------------------
+
+
+v2.0.3
+- Added Compatibility with PlayTube v2.0.3
+
+-------------------------------------
+
+
+v2.0.1
+- Added Compatibility with PlayTube v2.0.1
+
+-------------------------------------
+
+
+v2.0
+- Added Compatibility with PlayTube v2.0
+
+-------------------------------------
+
+
+v1.9.1
+- Changed layout of Watch video page
+- Fixed RTL layout issues
+
+-------------------------------------
+
+
+v1.9
+- Added Compatibility with PlayTube v1.9
+- Fixed Bugs
+
+-------------------------------------
+
+
+v1.8
+- Added Custom Scrollbar in Left Sidebar menu
+- Added History, Popular Channels and Article Links in Mobile Account menu
+- Fixed Night mode issue
+
+-------------------------------------
+
+
+v1.7
+- Added Compatibility with PlayTube v1.8.1
+- Bug Fixes
+
+-------------------------------------
+
+
+v1.6
+- Added Compatibility with PlayTube v1.8
+- Fixed Bugs
+
+-------------------------------------
+
+
+v1.5
+- Fixed Bugs
+
+-------------------------------------
+
+
+v1.4
+- Added Compatibility with PlayTube v1.7.1
+- Fixed Bugs
+
+
+-------------------------------------
+
+
+v1.3
+- Fixed Video Theater Mode Issues
+- Fixed Bugs
+
+
+-------------------------------------
+
+
+v1.2
+- Added Button to Hide/Show Menu
+- Fixed Embed Page Player
+- Fixed Video Theater Mode
+- Fixed Bugs
+
+
+-------------------------------------
+
+
+v1.1
+- Fixed Reported Bugs
+
+
+-------------------------------------
+
+
+v1.0
+- Initial Release
